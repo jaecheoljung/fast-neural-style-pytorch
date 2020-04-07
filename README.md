@@ -3,12 +3,11 @@
 - With transformer network.
 
 Mix two images!
-<p><img src='images/gogh.jpg'></p>
-<p><img src='images/trevi.jpg'></p>
+<p><img src='images/gogh.jpg', width=500, height=500><img src='images/trevi.jpg', width=500, height=500></p>
 
 
 Result
-<p><img src='sample.jpg'></p>
+<p><img src='sample.JPG', width=500, height=500></p>
 
 
 
