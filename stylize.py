@@ -6,7 +6,7 @@ from torchvision import transforms
 import time
 import cv2
 
-STYLE_TRANSFORM_PATH = "models/transformer_weight.pth"
+STYLE_TRANSFORM_PATH = "run/run_8/transformer_weight.pth"
 
 device = ("cuda" if torch.cuda.is_available() else "cpu")
 
