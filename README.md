@@ -17,7 +17,7 @@ Input video name is set to 'input.avi'
 
 `python video.py`
 
-<p><img src='out.gif'></p>
+<p><img src='in.gif', width=640, height=480><img src='out.gif', width=640, height=480></p>
 
 - License
 
