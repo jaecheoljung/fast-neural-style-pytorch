@@ -3,12 +3,11 @@
 - With transformer network.
 
 Mix two images!
-<p><img src='images/gogh.jpg'></p>
-<p><img src='images/trevi.jpg'></p>
+<p><img src='images/gogh.jpg', width=300, height=300><img src='images/trevi.jpg', width=300, height=300></p>
 
 
 Result
-<p><img src='sample.jpg'></p>
+<p><img src='sample.JPG', width=500, height=500></p>
 
 
 
@@ -21,4 +20,6 @@ Input video name is set to 'input.avi'
 <p><img src='output.gif'></p>
 
 - License
+
+
 Copyright (c) 2018 Rusty Mina. Free for academic or research use, as long as proper attribution is given and this copyright notice is retained.
